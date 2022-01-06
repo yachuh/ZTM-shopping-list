@@ -1,2 +1,4 @@
 # ZTM-shopping-list
-ZTM practice: Shopping list
+A practice project of ZTM DOM Events: Shopping List
+
+
